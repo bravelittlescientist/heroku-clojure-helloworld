@@ -1,8 +1,8 @@
 (defproject helloworld "1.0.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "A Heroku test project in Clojure"
   :url "http://helloworld.herokuapp.com"
-  :license {:name "FIXME: choose"
-            :url "http://example.com/FIXME"}
+  :license {:name "Eclipse"
+            :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [compojure "1.1.1"]
                  [ring/ring-jetty-adapter "1.1.0"]
